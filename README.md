@@ -17,7 +17,7 @@
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rubinapokhrel061&show_icons=true&locale=en" alt="rubinapokhrel061" height="150cm" width="300cm"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubinapokhrel061&" alt="rubinapokhrel061" height="150cm" width="320cm"/>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubinapokhrel061&show_icons=true&locale=en&layout=compact" alt="rubinapokhrel061" height="130cm" width="300cm"/>
+  
 </div>
-
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubinapokhrel061&show_icons=true&locale=en&layout=compact" alt="rubinapokhrel061" height="130cm" width="300cm"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubinapokhrel061&label=Profile%20views&color=0e75b6&style=flat" alt="rubinapokhrel061" /> </p>

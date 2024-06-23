@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rubina </h1>
-<h5 align="center"> 🌱 I’m currently learning **Mern Stack**</h5>
+<h5 align="center"> 🌱 I’m currently learning **Full Stack**</h5>
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" width="300"/>
 </div>

@@ -7,7 +7,8 @@
 I build enterprise, AI-powered and real-time applications: SAP integration, payments, and background-job systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubinapokhrel-a85094275)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubinapokhrel37@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rubinapokhrel61.com.np/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pokhrelrubina2061@gmail.com)
 ![Location](https://img.shields.io/badge/Lalitpur,_Nepal-334155?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Open_to_work-16A34A?style=for-the-badge)
 
@@ -24,7 +25,8 @@ Full Stack Developer at **BizHub Consulting Service Pvt. Ltd**, working on produ
 | **Currently** | Building AI invoice automation and payment integrations at BizHub |
 | **Learning** | System design, Docker, AWS, RAG with LangChain |
 | **Looking for** | Full Stack or Backend Developer roles |
-| **Reach me** | rubinapokhrel37@gmail.com |
+| **Portfolio** | [rubinapokhrel61.com.np](https://www.rubinapokhrel61.com.np/) |
+| **Reach me** | pokhrelrubina2061@gmail.com |
 
 ---
 
@@ -112,7 +114,7 @@ A real-time messaging platform with media processing and notifications.
 
 Hiring for a Full Stack or Backend role? I would like to hear from you.
 
-[LinkedIn](https://www.linkedin.com/in/rubinapokhrel-a85094275) · [Email](mailto:pokhrelrubina2061@gmail.com)
+[Portfolio](https://www.rubinapokhrel61.com.np/) · [LinkedIn](https://www.linkedin.com/in/rubinapokhrel-a85094275) · [Email](mailto:pokhrelrubina2061@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />
 
